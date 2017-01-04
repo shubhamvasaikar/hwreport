@@ -1,0 +1,10 @@
+CPU Percentage: 0.0
+CPU Count: 4
+Total Memory:  8085643264
+Availale Memory 6495842304
+Used Memory 937213952
+Free Memory 4423475200
+% Memory 19.7
+/: sdiskusage(total=155677884416, used=67832877056, free=87845007360, percent=43.6)
+/boot: sdiskusage(total=1063256064, used=277286912, free=785969152, percent=26.1)
+/home: sdiskusage(total=48307896320, used=39603253248, free=8704643072, percent=82.0)
