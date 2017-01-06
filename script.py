@@ -6,7 +6,7 @@ import time
 def main():
         client = paramiko.SSHClient()
         client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-        client.connect('10.65.201.150', username='root', password='redhat')
+        client.connect('xxx.xxx.xxx.xxx', username='ENTER USER', password='ENTER PASS')
 
         sftp = client.open_sftp()
         sftp.put('remote_script.py', '/root/remote/remote_script.py')
